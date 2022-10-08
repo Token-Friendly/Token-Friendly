@@ -89,7 +89,8 @@
 <input type="hidden" name="hosted_button_id" value="Q2UFPM23JC25Q" />
 <input type="image" src="https://www.paypalobjects.com/en_US/IL/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_IL/i/scr/pixel.gif" width="1" height="1" /></form>
->
+
+
 > **NOTE: by sending a donation, you agree that no refund will be issued to you (unless there is a technical problem with the program itself)**
 >
 > Once you send the money you can join into my [telegram channel](https://t.me/AgamSol) and let me know its you
